@@ -1,0 +1,8 @@
+@font-face {
+    font-family:fuenteuno;
+    src: url(../../../assets/fonts/BakbakOne-Regular.ttf);
+}
+.titulobuscar{
+    font-family: fuenteuno;
+    font-size: 23px;
+}

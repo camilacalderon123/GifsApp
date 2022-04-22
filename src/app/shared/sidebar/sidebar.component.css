@@ -1,0 +1,15 @@
+#sidebar{
+    height: 100%;
+    min-height: 100vh;
+    min-width: 180px;
+}
+@font-face {
+    font-family:fuenteuno;
+    src: url(../../../assets/fonts/BakbakOne-Regular.ttf);
+}
+.tituloapp{
+    font-family: fuenteuno;
+}
+.color-barra{
+    background-color:#4d5bf5;
+}
